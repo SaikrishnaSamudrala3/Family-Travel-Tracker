@@ -29,7 +29,7 @@
   [npm i]
 
 # Instructions to setup
--start the server using:
+- Start the server using:
 [npm start]
 - Access the web appilcation through your local host 3000
   
